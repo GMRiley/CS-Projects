@@ -1,0 +1,6 @@
+E:\C#\Week1_Sample1\Week1_Sample1\bin\Debug\Week1_Sample1.exe.config
+E:\C#\Week1_Sample1\Week1_Sample1\bin\Debug\Week1_Sample1.exe
+E:\C#\Week1_Sample1\Week1_Sample1\bin\Debug\Week1_Sample1.pdb
+E:\C#\Week1_Sample1\Week1_Sample1\obj\Debug\Week1_Sample1.csprojResolveAssemblyReference.cache
+E:\C#\Week1_Sample1\Week1_Sample1\obj\Debug\Week1_Sample1.exe
+E:\C#\Week1_Sample1\Week1_Sample1\obj\Debug\Week1_Sample1.pdb
