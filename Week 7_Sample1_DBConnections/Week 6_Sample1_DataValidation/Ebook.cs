@@ -78,7 +78,7 @@ namespace Week_6_Sample1_DataValidation
             SqlConnection Conn = new SqlConnection();
 
             //Initialize it's properties
-            Conn.ConnectionString = @"Server=sql.neit.edu,4500;Database=Slambert;User Id=slambert;Password=myPassword;";     //Set the Who/What/Where of DB
+            Conn.ConnectionString = @"Server=;Database=;User Id=;Password=;";     //Set the Who/What/Where of DB
 
             //attempt to connect to the server
             try
