@@ -1,9 +1,0 @@
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\bin\Debug\Week4_Sample1_Structs.exe.config
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\bin\Debug\Week4_Sample1_Structs.exe
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\bin\Debug\Week4_Sample1_Structs.pdb
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\obj\Debug\Week4_Sample1_Structs.csprojResolveAssemblyReference.cache
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\obj\Debug\Week4_Sample1_Structs.exe
-C:\Users\slambert\Documents\NEIT\Courses\SE245-Console\Week 4\Week4_Sample1_Structs\Week4_Sample1_Structs\obj\Debug\Week4_Sample1_Structs.pdb
-E:\C#\Week4_Sample1_Structs\Week4_Sample1_Structs\bin\Debug\Week4_Sample1_Structs.exe.config
-E:\C#\Week4_Sample1_Structs\Week4_Sample1_Structs\obj\Debug\Week4_Sample1_Structs.exe
-E:\C#\Week4_Sample1_Structs\Week4_Sample1_Structs\obj\Debug\Week4_Sample1_Structs.pdb
